@@ -12,7 +12,7 @@
     - pyspark.sql.functions
 
 ## Files:
-1. 'CS6350 Big Data Final Project ANN.ipynb' file
+1. 'source_code.ipynb' file
     -- main project source code
     -- contains implementation and results of neural network model
 2. 'README.md' text file
